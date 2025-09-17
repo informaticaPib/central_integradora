@@ -1,0 +1,6 @@
+
+{"errors":[{"error_type":"UNAUTHORIZED","error_message":"Invalid request","path":"headers.Authorization"}]}reesponse Post Opportunity cURL: {"errors":[{"error_type":"UNAUTHORIZED","error_message":"Invalid request","path":"headers.Authorization"}]}
+
+{"errors":{"error_type":"UNAUTHORIZED","error_message":"Invalid token."}}reesponse Get uuid cURL: {"errors":{"error_type":"UNAUTHORIZED","error_message":"Invalid token."}}
+
+{"errors":{"error_type":"UNAUTHORIZED","error_message":"Invalid token."}}reesponse Patch caminhada cURL: {"errors":{"error_type":"UNAUTHORIZED","error_message":"Invalid token."}}

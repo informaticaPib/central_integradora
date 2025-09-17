@@ -1,0 +1,108 @@
+.alert {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.error_msg {
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+}
+
+.warning_msg {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b;
+}
+
+.info_msg {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #31708f;
+}
+
+.success_msg {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d;
+}
+.btn-default{
+    background-color: #e6e6e6!important;
+}
+.btn-default:hover{
+    background-color: #bfbfbf!important;
+}
+.vermelho{
+    color: red;
+    font-weight: 800;
+}
+.pointer{
+    cursor: pointer;
+}
+.btn-default{
+	color: #fff!important;
+	background-color: #009fe3!important;
+	border-color: #009fe3!important;
+}
+.btn-default:hover{
+	color: #fff!important;
+	background-color: #0086cd!important;
+	border-color: #0086cd!important;
+}
+.btn-info{
+	color: #fff!important;
+	background-color: #05678a!important;
+	border-color: #05678a!important;
+}
+.btn-info:hover{
+	color: #fff!important;
+	background-color: #055970!important;
+	border-color: #055970!important;
+}
+.btn-danger{
+	color: #fff!important;
+	background-color: #d9544f!important;
+	border-color: #d9544f!important;
+}
+.btn-danger:hover{
+	color: #fff!important;
+	background-color: #bf2c2b!important;
+	border-color: #bf2c2b!important;
+}
+.btn-disabled{
+	color: #fff!important;
+	background-color: #b7b7b7!important;
+	border-color: #b7b7b7!important;
+
+}
+.pointer{
+	cursor: pointer;
+}
+.modal-lg{
+	max-width: 1200px!important;
+}
+.verde{
+	color: green;
+}
+.vermelho{
+	color: red;
+}
+.laranja{
+	color: orange;
+}
+.amarelo{
+	color: yellow;
+}
+.tabelaSemQuebra{
+	white-space: nowrap;
+}
+
+.menu-hamburguer{
+	font-size: 32px;
+}
+
+.icone-sair{
+	font-size: 21px;
+}
